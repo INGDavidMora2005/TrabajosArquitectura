@@ -1,0 +1,5 @@
+# ejemplo de una funcion hecha po assembly
+
+.text
+.global sumar
+.global
